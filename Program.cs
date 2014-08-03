@@ -40,6 +40,10 @@ namespace OPPClasses
                         Console.WriteLine("This car can only be blue!");
                     }
               }
+            ~Car()
+            {
+                Console.WriteLine("Fin...");
+            }
             
         }
         static void Main(string[] args)
