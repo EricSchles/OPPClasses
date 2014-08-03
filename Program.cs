@@ -30,9 +30,17 @@ namespace OPPClasses
 
             public string Color
             {
-                get { return color; }
-                set { color = value; }
-            }
+                get { 
+                    return color.ToUpper(); 
+                }
+                set {
+                    if (value == "Blue")
+                        color = value;
+                    else
+                        Console.WriteLine("This car can only be blue!");
+                    }
+              }
+            
         }
         static void Main(string[] args)
         {
@@ -42,7 +50,8 @@ namespace OPPClasses
             Console.WriteLine(car.Describe());
             car = new Car("Red");
             Console.WriteLine(car.Describe());
-
+            car.Color = "orange";
+            Console.WriteLine(car.Describe());
             car = new Car("Green");
             Console.WriteLine(car.Describe());
 
