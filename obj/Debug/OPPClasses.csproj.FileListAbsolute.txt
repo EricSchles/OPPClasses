@@ -1,0 +1,6 @@
+c:\users\eric\documents\visual studio 2012\Projects\OPPClasses\OPPClasses\bin\Debug\OPPClasses.exe.config
+c:\users\eric\documents\visual studio 2012\Projects\OPPClasses\OPPClasses\bin\Debug\OPPClasses.exe
+c:\users\eric\documents\visual studio 2012\Projects\OPPClasses\OPPClasses\bin\Debug\OPPClasses.pdb
+c:\users\eric\documents\visual studio 2012\Projects\OPPClasses\OPPClasses\obj\Debug\OPPClasses.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2012\Projects\OPPClasses\OPPClasses\obj\Debug\OPPClasses.exe
+c:\users\eric\documents\visual studio 2012\Projects\OPPClasses\OPPClasses\obj\Debug\OPPClasses.pdb
